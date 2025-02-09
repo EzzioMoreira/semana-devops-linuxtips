@@ -1,6 +1,6 @@
 # Semana DevOps LinuxTips
 
-Repositório contém os arquivos utilizados na apresentação sobre observabilidade da Semana DevOps LinuxTips.
+Repositório contém os arquivos utilizados na apresentação sobre observabilidade da Semana DevOps LinuxTips apresentada no dia 11/02/2025.
 
 ## Pré-requisitos
 
